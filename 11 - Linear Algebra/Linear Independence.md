@@ -10,13 +10,13 @@ A set of vectors is linearly dependent if some non-trivial linear combination of
 
 ## Key Equation
 
-*$S=\{v_1,\dots,v_n\}$ is linearly dependent (ת"ל) if:*
+*$S=\{v_1,\dots,v_n\}$ is linearly dependent if:*
 
 $$
 \exists\,(\alpha_1,\dots,\alpha_n)\neq 0:\qquad \alpha_1v_1+\alpha_2v_2+\cdots+\alpha_nv_n=0
 $$
 
-**Derived From:** definition, using a non-trivial [linear combination](../11%20-%20Linear%20Algebra/Linear%20Combinations.md) that equals zero. If no such combination exists, $S$ is linearly independent (בת"ל).
+**Derived From:** definition, using a non-trivial [linear combination](../11%20-%20Linear%20Algebra/Linear%20Combinations.md) that equals zero. If no such combination exists, $S$ is linearly independent.
 
 ## Supporting Formulas
 
